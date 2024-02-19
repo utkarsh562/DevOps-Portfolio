@@ -10,7 +10,7 @@
       }
     },
     {
-      "name": "Todo",
+      "name": "Provisioning an EC2 instance with terraform",
       "desc": "Full fledged MERN stack project. Built using HTML, CSS, JS, Node, Express, MongoDB.",
       "image": "Todo",
       "category": "mern",
