@@ -1,52 +1,52 @@
 [
     {
-      "name": "Weather App",
-      "desc": "Get the weather of your location. Built using HTML, CSS, JS, Node, Express, weather API.",
+      "name": "Microservice Deployment",
+      "desc": "In this we are using Docker as a Containerized service and make an CI/CD ",
       "image": "dev",
       "category": "mern",
       "links": {
-        "view": "https://github.com/Ankit3060/Weather-Prediction",
-        "code": "https://github.com/Ankit3060/Weather-Prediction"
+        "view": "https://github.com/utkarsh562/Microservice-Deployment.git",
+        "code": "https://github.com/utkarsh562/Microservice-Deployment.git"
       }
     },
     {
       "name": "Provisioning an EC2 instance with terraform",
-      "desc": "Full fledged MERN stack project. Built using HTML, CSS, JS, Node, Express, MongoDB.",
+      "desc": "We've made an Infrastructure e.g. creating an EC2 and s3 with Terraform",
       "image": "Todo",
       "category": "mern",
       "links": {
-        "view": "https://github.com/Ankit3060/ToDo-List-Version-2.0",
-        "code": "https://github.com/Ankit3060/ToDo-List-Version-2.0"
+        "view": "https://github.com/utkarsh562/terraform-practice.git",
+        "code": "https://github.com/utkarsh562/terraform-practice.git"
       }
     },
     {
-      "name": "Youtube Backend",
-      "desc": "It is pure backend project of youtube. Built using Node, Express, MongoDB.",
+      "name": "AWS serverless",
+      "desc": "We've made a simple HTTP API with Node.js running on AWS Lambda and API Gateway using the Serverless Framework.",
       "image": "youtube",
       "category": "mern",
       "links": {
-        "view": "https://github.com/Ankit3060/Youtube-Backend",
-        "code": "https://github.com/Ankit3060/Youtube-Backend"
+        "view": "https://github.com/utkarsh562/aws-serverless-project.git",
+        "code": "https://github.com/utkarsh562/aws-serverless-project.git"
       }
     },
     {
-      "name": "Facebook clone",
-      "desc": "This is facebook clone made with HTML, CSS, Tailwind CSS.",
+      "name": "Reddit Clone Deployment",
+      "desc": "I've Deployed reddit clone with the help of K8s and Docker.",
       "image": "facebook",
       "category": "clone",
       "links": {
-        "view": "https://clone-fb-two.vercel.app/",
-        "code": "https://github.com/Ankit3060/fbcopy"
+        "view": "https://github.com/utkarsh562/Reddit-clone-Deployment.git",
+        "code": "https://github.com/utkarsh562/Reddit-clone-Deployment.git"
       }
     },
     {
-      "name": "Mr. Mac Store",
-      "desc": "This is a Shop website for refubrished items. Built using HTML, CSS, JS, Bootstrap.",
+      "name": "Flask App with MySQL Docker Setup",
+      "desc": "In this i've worked on flask app with mysql deployment with k8s and Docker.",
       "image": "Shop",
       "category": "clone",
       "links": {
-        "view": "https://mr-mac-store.vercel.app/",
-        "code": "https://github.com/Ankit3060/Mr.Mac-store"
+        "view": "https://github.com/utkarsh562/two-tier-application.git",
+        "code": "https://github.com/utkarsh562/two-tier-application.git"
       }
     },
     {
@@ -60,63 +60,63 @@
       }
     },
     {
-      "name": "Drum kit",
-      "desc": "This is Drum kit produce sound when clicked. Built using HTML, CSS, JS.",
+      "name": "Deploying a flask based website",
+      "desc": "I've deployed flask based website with the k8s and Docker",
       "image": "drumkit",
       "category": "basicweb",
       "links": {
-        "view": "https://drum-kit-xi-blue.vercel.app/",
-        "code": "https://github.com/Ankit3060/Drum-kit"
+        "view": "https://github.com/utkarsh562/flask-api.git",
+        "code": "https://github.com/utkarsh562/flask-api.git"
       }
     },
     {
-      "name": "Password Generator",
-      "desc": "This is password generator. Built using HTML, CSS, JS.",
+      "name": "Shell Scripting ",
+      "desc": "This Project is done with the help of shell Scripting",
       "image": "passwordGenerator2",
       "category": "basicweb",
       "links": {
-        "view": "https://password-generator-ankit3060.vercel.app/",
-        "code": "https://github.com/Ankit3060/Password-Generator"
+        "view": "https://github.com/utkarsh562/Project1.git",
+        "code": "https://github.com/utkarsh562/Project1.git"
       }
     },
     {
-      "name": "Movie recommendation system app",
-      "desc": "This is movie recommendation app. Built using .",
-      "image": "movie",
+      "name": "Simple CI/CD with jenkins",
+      "desc": "I've made a simple cicd with the help of Jenkins.",
+      "image": "jenkins",
       "category": "machinelearning",
       "links": {
-        "view": "https://github.com/Ankit3060/Movie-Recommendation-System-App",
-        "code": "https://github.com/Ankit3060/Movie-Recommendation-System-App"
+        "view": "https://github.com/utkarsh562/project-jenkins.git",
+        "code": "https://github.com/utkarsh562/project-jenkins.git"
       }
     },
     {
       "name": "Joke App",
-      "desc": "This project is help to get the joke with lot of options. Built using HTML, CSS, JS,EJS, Node, Express, joke API.",
+      "desc": "This project is help to get the joke with lot of options.With the help of Docker Deployed it.",
       "image": "joke",
       "category": "mern",
       "links": {
-        "view": "https://github.com/Ankit3060/Joke-App",
-        "code": "https://github.com/Ankit3060/Joke-App"
+        "view": "https://github.com/utkarsh562/Joke-App.git",
+        "code": "https://github.com/utkarsh562/Joke-App.git"
       }
     },
     {
-      "name": "Spotify Clone",
-      "desc": "This is Razorpay clone made with HTML, CSS, javaScript.",
+      "name": "Containerization of Game web",
+      "desc": "With the help of Docker we containerize the Web applications.",
       "image": "spotify",
       "category": "clone",
       "links": {
-        "view": "https://spotify-clone-self-tau.vercel.app/",
-        "code": "https://github.com/Ankit3060/Spotify-Clone"
+        "view": "https://github.com/utkarsh562/Game.git",
+        "code": "https://github.com/utkarsh562/Game.git"
       }
     },
     {
-      "name": "Blog Writing",
-      "desc": "Full fledged MERN stack project. Built using HTML, CSS, JS, Node, Express, MongoDB.",
+      "name": "Deployed a node todo with CI/CD pipelines",
+      "desc": "I've created the CI/CD pipeline to deploy the application with the K8s and Docker.",
       "image": "blogWriting",
       "category": "mern",
       "links": {
-        "view": "https://github.com/Ankit3060/Blog-Writing-Version-2.0",
-        "code": "https://github.com/Ankit3060/Blog-Writing-Version-2.0"
+        "view": "https://github.com/utkarsh562/node-todo-cicd.git",
+        "code": "https://github.com/utkarsh562/node-todo-cicd.git"
       }
     }
   ]
