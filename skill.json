@@ -1,0 +1,86 @@
+[
+    {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/49/docker.png"
+    },
+    {
+        "name": "K8s",
+        "icon": "https://img.icons8.com/color/48/kubernetes.png"
+    },
+    {
+        "name": "NodeJS",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+        "name": "Jenkins",
+        "icon": "https://img.icons8.com/color/48/jenkins.png"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/color/48/000000/html-5--v1.png"
+    },
+    {
+        "name": "CSS3",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+        "name": "Terraform",
+        "icon": "https://img.icons8.com/color/48/terraform.png"
+    },
+    {
+        "name": "Postman",
+        "icon": "https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-shadow-tal-revivo.png"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript--v1.png"
+    },
+    {
+        "name": "Ansible",
+        "icon": "https://img.icons8.com/color/48/ansible.png"
+    },
+    {
+        "name": "C++",
+        "icon": "https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"
+    },
+    {
+        "name": "Github Action",
+        "icon": "https://img.icons8.com/color/48/github--v1.png"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python--v1.png"
+    },
+    {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+        "name": "Prometheus",
+        "icon": "https://img.icons8.com/color/48/prometheus-app.png"
+    },
+    {
+        "name": "Grafana",
+        "icon": "https://img.icons8.com/fluency/50/grafana.png"
+    },
+    {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/external-those-icons-flat-those-icons/48/000000/external-Linux-logos-and-brands-those-icons-flat-those-icons.png"
+    },
+    {
+        "name": "Git VCS",
+        "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+        "name": "GitHub",
+        "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    }
+]

@@ -1,0 +1,122 @@
+[
+    {
+      "name": "Weather App",
+      "desc": "Get the weather of your location. Built using HTML, CSS, JS, Node, Express, weather API.",
+      "image": "dev",
+      "category": "mern",
+      "links": {
+        "view": "https://github.com/Ankit3060/Weather-Prediction",
+        "code": "https://github.com/Ankit3060/Weather-Prediction"
+      }
+    },
+    {
+      "name": "Todo",
+      "desc": "Full fledged MERN stack project. Built using HTML, CSS, JS, Node, Express, MongoDB.",
+      "image": "Todo",
+      "category": "mern",
+      "links": {
+        "view": "https://github.com/Ankit3060/ToDo-List-Version-2.0",
+        "code": "https://github.com/Ankit3060/ToDo-List-Version-2.0"
+      }
+    },
+    {
+      "name": "Youtube Backend",
+      "desc": "It is pure backend project of youtube. Built using Node, Express, MongoDB.",
+      "image": "youtube",
+      "category": "mern",
+      "links": {
+        "view": "https://github.com/Ankit3060/Youtube-Backend",
+        "code": "https://github.com/Ankit3060/Youtube-Backend"
+      }
+    },
+    {
+      "name": "Facebook clone",
+      "desc": "This is facebook clone made with HTML, CSS, Tailwind CSS.",
+      "image": "facebook",
+      "category": "clone",
+      "links": {
+        "view": "https://clone-fb-two.vercel.app/",
+        "code": "https://github.com/Ankit3060/fbcopy"
+      }
+    },
+    {
+      "name": "Mr. Mac Store",
+      "desc": "This is a Shop website for refubrished items. Built using HTML, CSS, JS, Bootstrap.",
+      "image": "Shop",
+      "category": "clone",
+      "links": {
+        "view": "https://mr-mac-store.vercel.app/",
+        "code": "https://github.com/Ankit3060/Mr.Mac-store"
+      }
+    },
+    {
+      "name": "Razorpay Clone",
+      "desc": "This is Razorpay clone made with HTML, CSS, Tailwind CSS.",
+      "image": "razorpay",
+      "category": "clone",
+      "links": {
+        "view": "https://razor-pay-livid.vercel.app/",
+        "code": "https://github.com/Ankit3060/Razor-Pay"
+      }
+    },
+    {
+      "name": "Drum kit",
+      "desc": "This is Drum kit produce sound when clicked. Built using HTML, CSS, JS.",
+      "image": "drumkit",
+      "category": "basicweb",
+      "links": {
+        "view": "https://drum-kit-xi-blue.vercel.app/",
+        "code": "https://github.com/Ankit3060/Drum-kit"
+      }
+    },
+    {
+      "name": "Password Generator",
+      "desc": "This is password generator. Built using HTML, CSS, JS.",
+      "image": "passwordGenerator2",
+      "category": "basicweb",
+      "links": {
+        "view": "https://password-generator-ankit3060.vercel.app/",
+        "code": "https://github.com/Ankit3060/Password-Generator"
+      }
+    },
+    {
+      "name": "Movie recommendation system app",
+      "desc": "This is movie recommendation app. Built using .",
+      "image": "movie",
+      "category": "machinelearning",
+      "links": {
+        "view": "https://github.com/Ankit3060/Movie-Recommendation-System-App",
+        "code": "https://github.com/Ankit3060/Movie-Recommendation-System-App"
+      }
+    },
+    {
+      "name": "Joke App",
+      "desc": "This project is help to get the joke with lot of options. Built using HTML, CSS, JS,EJS, Node, Express, joke API.",
+      "image": "joke",
+      "category": "mern",
+      "links": {
+        "view": "https://github.com/Ankit3060/Joke-App",
+        "code": "https://github.com/Ankit3060/Joke-App"
+      }
+    },
+    {
+      "name": "Spotify Clone",
+      "desc": "This is Razorpay clone made with HTML, CSS, javaScript.",
+      "image": "spotify",
+      "category": "clone",
+      "links": {
+        "view": "https://spotify-clone-self-tau.vercel.app/",
+        "code": "https://github.com/Ankit3060/Spotify-Clone"
+      }
+    },
+    {
+      "name": "Blog Writing",
+      "desc": "Full fledged MERN stack project. Built using HTML, CSS, JS, Node, Express, MongoDB.",
+      "image": "blogWriting",
+      "category": "mern",
+      "links": {
+        "view": "https://github.com/Ankit3060/Blog-Writing-Version-2.0",
+        "code": "https://github.com/Ankit3060/Blog-Writing-Version-2.0"
+      }
+    }
+  ]
