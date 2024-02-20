@@ -2,7 +2,7 @@
     {
       "name": "Microservice Deployment",
       "desc": "In this we are using Docker as a Containerized service and make an CI/CD ",
-      "image": "dev",
+      "image": "micro",
       "category": "mern",
       "links": {
         "view": "https://github.com/utkarsh562/Microservice-Deployment.git",
@@ -10,9 +10,9 @@
       }
     },
     {
-      "name": "Provisioning an EC2 instance with terraform",
+      "name": "Provisine EC2 with terraform",
       "desc": "We've made an Infrastructure e.g. creating an EC2 and s3 with Terraform",
-      "image": "Todo",
+      "image": "Terra",
       "category": "mern",
       "links": {
         "view": "https://github.com/utkarsh562/terraform-practice.git",
@@ -22,7 +22,7 @@
     {
       "name": "AWS serverless",
       "desc": "We've made a simple HTTP API with Node.js running on AWS Lambda and API Gateway using the Serverless Framework.",
-      "image": "youtube",
+      "image": "serve",
       "category": "mern",
       "links": {
         "view": "https://github.com/utkarsh562/aws-serverless-project.git",
@@ -32,7 +32,7 @@
     {
       "name": "Reddit Clone Deployment",
       "desc": "I've Deployed reddit clone with the help of K8s and Docker.",
-      "image": "facebook",
+      "image": "reddit",
       "category": "clone",
       "links": {
         "view": "https://github.com/utkarsh562/Reddit-clone-Deployment.git",
@@ -42,7 +42,7 @@
     {
       "name": "Flask App with MySQL Docker Setup",
       "desc": "In this i've worked on flask app with mysql deployment with k8s and Docker.",
-      "image": "Shop",
+      "image": "flask",
       "category": "clone",
       "links": {
         "view": "https://github.com/utkarsh562/two-tier-application.git",
@@ -62,7 +62,7 @@
     {
       "name": "Deploying a flask based website",
       "desc": "I've deployed flask based website with the k8s and Docker",
-      "image": "drumkit",
+      "image": "fla",
       "category": "basicweb",
       "links": {
         "view": "https://github.com/utkarsh562/flask-api.git",
@@ -72,7 +72,7 @@
     {
       "name": "Shell Scripting ",
       "desc": "This Project is done with the help of shell Scripting",
-      "image": "passwordGenerator2",
+      "image": "shell",
       "category": "basicweb",
       "links": {
         "view": "https://github.com/utkarsh562/Project1.git",
@@ -82,7 +82,7 @@
     {
       "name": "Simple CI/CD with jenkins",
       "desc": "I've made a simple cicd with the help of Jenkins.",
-      "image": "jenkins",
+      "image": "jenk",
       "category": "machinelearning",
       "links": {
         "view": "https://github.com/utkarsh562/project-jenkins.git",
@@ -92,7 +92,7 @@
     {
       "name": "Joke App",
       "desc": "This project is help to get the joke with lot of options.With the help of Docker Deployed it.",
-      "image": "joke",
+      "image": "jokes",
       "category": "mern",
       "links": {
         "view": "https://github.com/utkarsh562/Joke-App.git",
@@ -102,7 +102,7 @@
     {
       "name": "Containerization of Game web",
       "desc": "With the help of Docker we containerize the Web applications.",
-      "image": "spotify",
+      "image": "cicd",
       "category": "clone",
       "links": {
         "view": "https://github.com/utkarsh562/Game.git",
@@ -110,9 +110,9 @@
       }
     },
     {
-      "name": "Deployed a node todo with CI/CD pipelines",
+      "name": "Node-todo CI/CD pipelines ",
       "desc": "I've created the CI/CD pipeline to deploy the application with the K8s and Docker.",
-      "image": "blogWriting",
+      "image": "todo",
       "category": "mern",
       "links": {
         "view": "https://github.com/utkarsh562/node-todo-cicd.git",
