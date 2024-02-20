@@ -12,7 +12,7 @@
     {
       "name": "Provisine EC2 with terraform",
       "desc": "We've made an Infrastructure e.g. creating an EC2 and s3 with Terraform",
-      "image": "Terra",
+      "image": "terra",
       "category": "mern",
       "links": {
         "view": "https://github.com/utkarsh562/terraform-practice.git",
